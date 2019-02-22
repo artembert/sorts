@@ -1,0 +1,10 @@
+{
+  "name": "sorts",
+  "author": {
+    "name": "Artem Beresnev",
+    "email": "artembert@gmail.com"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.0"
+  }
+}
